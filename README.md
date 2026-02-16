@@ -15,7 +15,6 @@ The pricing of Asian options often involves high-dimensional integrals where sta
 * `arithmetic_asian_option_final.py`: Implementation and simulation for Arithmetic Asian Call options.
 * `digital_asian_option_final.py`: Implementation and simulation for Binary Digital Asian options.
 * `Report.pdf`: Detailed theoretical background and analysis of numerical results.
-* `plots_arithmetic_asian/`: (Optional) Generated convergence and efficiency plots.
 
 ## Methodology
 The core of the project is based on the synergy between analytical smoothing and optimized sampling. 
